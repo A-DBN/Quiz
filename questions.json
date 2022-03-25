@@ -1,0 +1,596 @@
+{
+    "questions": [
+        {
+            "question": "De quelle arme un objet ensiforme a-t-il l'aspect ?",
+            "answers": {
+                "a": "Hache",
+                "b": "Epée",
+                "c": "Lance",
+                "d": "Arc"
+            },
+            "good_answer": "Epée"
+        },
+        {
+            "question": "Quel animal est la tégénaire qui tisse des toiles dans les angles des greniers et des caves ?",
+            "answers": {
+                "a": "Ours",
+                "b": "Ver de terre",
+                "c": "L'araignée",
+                "d": "Le moustique tigre"
+            },
+            "good_answer": "L'araignée"
+        },
+        {
+            "question": "La différence d'un nombre et de sa moitié est 32 , quel est ce nombre ?",
+            "answers": {
+                "a": "64",
+                "b": "128",
+                "c": "16",
+                "d": "32"
+            },
+            "good_answer": "64"
+        },
+        {
+            "question": "A quel astre fait référence l'autre nom de la plante herbacée appellée Monnaire du pape",
+            "answers": {
+                "a": "Jupiter",
+                "b": "Le soleil",
+                "c": "Mars",
+                "d": "La lune"
+            },
+            "good_answer": "La lune"
+        },
+        {
+            "question": "Parmis les 7 pechés capitaux, lequel est synonyme de pingrerie ?",
+            "answers": {
+                "a": "Paresse",
+                "b": "Colère",
+                "c": "Avarice",
+                "d": "Gourmandise"
+            },
+            "good_answer": "Avarice"
+        },
+        {
+            "question" : "Dans quel emission peut on choisir le thème mystere ?",
+            "answers": {
+                "a": "Question pour un champion",
+                "b": "Motus",
+                "c": "N'oubliez pas les paroles",
+                "d": "Qui veut prendre sa place"
+            },
+            "good_answer": "Question pour un champion"
+        },
+        {
+            "question": "Quel poisson au corps globuleux et informe, pouvant injecter des toxines puissantes, est le plus venimeux du monde ?",
+            "answers": {
+                "a": "L'éponge de mer",
+                "b": "Le poisson-globe",
+                "c": "Le poisson-clown",
+                "d": "Le poisson-pierre"
+            },
+            "good_answer": "Le poisson-pierre"
+        },
+        {
+            "question": "Quelles chutes d’eau devant leur nom à un amiral de France, dépassent de 30 mètres les chutes du Niagara ?",
+            "answers": {
+                "a": "Les chutes de Kaieteur",
+                "b": "Les chutes du Niagara",
+                "c": "Les chutes Victoria",
+                "d": "Les chutes de Montmorency"
+            },
+            "good_answer": "Les chutes de Montmorency"
+        },
+        {
+            "question": "Dans quelle cité Antique détruite en 79 avant JC se trouvait la villa des Mystères ?",
+            "answers": {
+                "a": "Rome",
+                "b": "Vienne",
+                "c": "Pompei",
+                "d": "Arles"
+            },
+            "good_answer": "Pompei"
+        },
+        {
+            "question": "Sur quel continent se situe l’action des 39 épisodes du dessin animé les Mystérieuses cités d’or ?",
+            "answers": {
+                "a": "Amériques",
+                "b": "Asie",
+                "c": "Europe",
+                "d": "Afrique"
+            },
+            "good_answer": "Amériques"
+        },
+        {
+            "question": "En psychiatrie, qu’est-il difficile voire impossible de faire pour un patient atteint d’acathisie ?",
+            "answers": {
+                "a": "Marcher",
+                "b": "S'asseoir/Rester assis",
+                "c": "Courir",
+                "d": "Utiliser ses bras"
+            },
+            "good_answer": "S'asseoir/Rester assis"
+        },
+        {
+            "question": "Quel personnage prénommé Balthazar est l’oncle maternel de Donald Duck ?",
+            "answers": {
+                "a": "Bugs Bunny",
+                "b": "Edouard",
+                "c": "Riri",
+                "d": "Picsou"
+            },
+            "good_answer": "Picsou"
+        },
+        {
+            "question": "Quel mollusque bivalve est appelé clovisse en Provence ?",
+            "answers": {
+                "a": "Palourde",
+                "b": "Escargot",
+                "c": "Moule",
+                "d": "Huitre"
+            },
+            "good_answer": "Palourde"
+        },
+        {
+            "question": "En géométrie, quel adjectif qualifie un angle de 180° ?",
+            "answers": {
+                "a": "Angle nul",
+                "b": "Angle plein",
+                "c": "Angle plat",
+                "d": "Angle saillant"
+            },
+            "good_answer": "Angle plat"
+        },
+        {
+            "question": "En 2016, quel prix Nobel a été décerné au Colombien Juan Manuel Santos ?",
+            "answers": {
+                "a": "Prix Nobel de la Paix",
+                "b": "Prix Nobel de littérature",
+                "c": "Prix Nobel de physique",
+                "d": "Prix Nobel d'économie"
+            },
+            "good_answer": "Prix Nobel de la Paix"
+        },
+        {
+            "question": "Quel élément chimique découvert par Georgius Agricola en 1540 a pour symbole Bi ?",
+            "answers": {
+                "a": "Bore",
+                "b": "Bismuth",
+                "c": "Baryum"
+            },
+            "good_answer": "Bismuth"
+        },
+        {
+            "question": "Quel symptôme de l’appareil digestif, assez courant, les médecins appellent-ils pyrosis ?",
+            "answers": {
+                "a": "Nausées",
+                "b": "Brulure d'estomac",
+                "c": "Hoquet",
+                "d": "Ballonnements de l'estomac"
+            },
+            "good_answer": "Brulute d'estomac"
+        },
+        {
+            "question": "Dans le vocabulaire de la chasse, le mot Ragot désigne un sanglier âgé de 2 ans ?",
+            "answers": {
+                "a": "Vrai",
+                "b": "Faux"
+            },
+            "good_answer": "Vrai"
+        },
+        {
+            "question": "Dans une nouvelle de Guy de Maupassant, quel type d’établissement est la Maison Tellier ?",
+            "answers": {
+                "a": "Un manoir",
+                "b": "Un magasin",
+                "c": "Un hotel",
+                "d": "Un bordel"
+            },
+            "good_answer": "Un bordel"
+        },
+        {
+            "question": "Quelle couleur a notamment pour nuances : Guède, Barbeau, Azurin, Pétrole et ciel ?",
+            "answers": {
+                "a": "Vert",
+                "b": "Bleu",
+                "c": "Gris",
+                "d": "Jaune"
+            },
+            "good_answer": "Bleu"
+        },
+        {
+            "question": "Quelle série française a un générique commençant par « On est vraiment bien… »",
+            "answers": {
+                "a": "Plus belle la vie",
+                "b": "Ici tout commence",
+                "c": "Les feux de l'amour",
+                "d": "Joséphine Ange Gardien"
+            },
+            "good_answer": "Plus belle la vie"
+        },
+        {
+            "question": "Dans quelle ville, capitale de la Bavière l’inspecteur Derrick mène-t-il l’enquête ?",
+            "answers": {
+                "a": "Munich",
+                "b": "Ratisbonne",
+                "c": "Landshut",
+                "d": "Nuremberg"
+            },
+            "good_answer": "Munich"
+        },
+        {
+            "question": "Depuis 1976, de quel personnage créé par Daniel Robert suit-on les informations de circulation ?",
+            "answers": {
+                "a": "Oscar",
+                "b": "Bison Futé",
+                "c": "Malika",
+                "d": "Zak"
+            },
+            "good_answer": "Bison Futé"
+        },
+        {
+            "question": "En 2016, lors du meeting annuel de son parti, quel homme politique français a appelé Jeanne d’Arc au secours de la France ?",
+            "answers": {
+                "a": "Jean-Marie LePen",
+                "b": "Benoit Hamon",
+                "c": "Francois Hollande",
+                "d": "Nicolas Sarkozy"
+            },
+            "good_answer": "Jean-Marie LePen"
+        },
+        {
+            "question": "A quel type d’organisme végétal associez-vous les termes de hyphe, volve, pied et mycélium ?",
+            "answers": {
+                "a": "Ginkgo biloba",
+                "b": "Euglènes",
+                "c": "Algues",
+                "d": "Champignon"
+            },
+            "good_answer": "Champignon"
+        },
+        {
+            "question": "Quelle saison commence en juin dans l’hémisphère Sud ?",
+            "answers": {
+                "a": "Ete",
+                "b": "Automne",
+                "c": "Hivers",
+                "d": "Printemps"
+            },
+            "good_answer": "Hiver"
+        },
+        {
+            "question": "Comment étaient appelés les soldats français durant la première guerre mondiale ?",
+            "answers": {
+                "a": "Les soldats de l’Empire",
+                "b": "Les francois",
+                "c": "Les poilus"
+            },
+            "good_answer": "Les poilus"
+        },
+        {
+            "question": "Dans un jeu sur France 3, quelle est la couleur du buzzer sur lequel doit appuyer un candidat qui veut slamer ?",
+            "answers": {
+                "a": "Rouge",
+                "b": "Vert",
+                "c": "Bleu",
+                "d": "Jaune"
+            },
+            "good_answer": "Rouge"
+        },
+        {
+            "question": "Quel nom Napoléon donna-t-il aux soldats de sa garde, du fait qu’ils se plaignaient souvent de leurs conditions ?",
+            "answers": {
+                "a": "Grognards",
+                "b": "chacals",
+                "c": "Boulets"
+            },
+            "good_answer": "Grognards"
+        },
+        {
+            "question": "Quelle station de radio ayant sa chaîne tv depuis 2010, a pour slogan La France a tout pour réussir ?",
+            "answers": {
+                "a": "Skyrock",
+                "b": "RadioFrance",
+                "c": "RFM",
+                "d": "Bfm Business"
+            },
+            "good_answer": "BFM Business"
+        },
+        {
+            "question": "Quelle petite guitare porte un nom signifiant « puce qui vole » en hawaïen ?",
+            "answers": {
+                "a": "Guitare Acoustique",
+                "b": "Guitare basse",
+                "c": "Ukulele",
+                "d": "La vihuela"
+            },
+            "good_answer": "Ukulele"
+        },
+        {
+            "question": "Quel cycliste britannique né à Nairobi (Kenya) a remporté le Tour de France en 2016 ?",
+            "answers": {
+                "a": "Ian Banbury",
+                "b": "Christopher Froome",
+                "c": "Kelvin Batey",
+                "d": "William Bradley"
+            },
+            "good_answer": "Christopher Froome"
+        },
+        {
+            "question": "Quel muslce est le plus puissant du corps humain ?",
+            "answers": {
+                "a": "La Langue",
+                "b": "Les Biceps",
+                "c": "Le Myocarde",
+                "d": "Le Muscle Soléaire"
+            },
+            "good_answer": "La Langue"
+        },
+        {
+            "question": "Quelle reine d'Egypte a exercé un rôle important pendant la période amarnienne ?",
+            "answers": {
+                "a": "Mérytaton",
+                "b": "Néférousobek",
+                "c": "Hatchepsout",
+                "d": "Nefertiti"
+            },
+            "good_answer": "Nefertiti"
+        },
+        {
+            "question": "Quel personnage de série s'est exprimé : \"Toi tu vis, toi tu vis, toi tu crèves ...\"",
+            "answers": {
+                "a": "Le roi Arthur",
+                "b": "Doui",
+                "c": "Lucky Luck",
+                "d": "Batman"
+            },
+            "good_answer": "Doui"
+        },
+        {
+            "question": "Pour quelle raison fut inventé la tronçonneuse ?",
+            "answers": {
+                "a": "La Symphysiotomy",
+                "b": "Couper la viande",
+                "c": "Couper du bois",
+                "d": "Tuer les criminels"
+            },
+            "good_answer": "Symphysiotomy"
+        },
+        {
+            "question": "Quel acteur incarnait Chewbacca dans Star Wars ?",
+            "answers": {
+                "a": "Ewan McGragor",
+                "b": "Oscar Isaac",
+                "c": "Peter Mayhew",
+                "d": "Liam Neeson"
+            },
+            "good_answer": "Peter Mayhew"
+        },
+        {
+            "question": "Quelle musique enfantine est souvent chantée a 2 accompagnée d'un jeu de main ?",
+            "answers": {
+                "a": "3 Petits Chats",
+                "b": "Une souris verte",
+                "c": "P'tit Quinquin",
+                "d": "La chanson est prénoms"
+            },
+            "good_answer": "3 Petits Chats"
+        },
+        {
+            "question": "Quel est le coût estimé de l'armement utilisé pendant la seconde guerre mondiale ? ",
+            "answers": {
+                "a": "1 000 milliards de dollars US",
+                "b": "500 milliards de dollars US",
+                "c": "100 milliards de dollars US",
+                "d": "10 000 milliards de dollars US"
+            },
+            "good_answer": "1 000 milliards de dollars US"
+        },
+        {
+            "question": "Quel élément chimique à pour numéro atomique 115 et symbole Mc?",
+            "answers": {
+                "a": "Magnésium",
+                "b": "Moscovium",
+                "c": "Manganèse",
+                "d": "Molybdène"
+            },
+            "good_answer": "Moscovium"
+        },
+        {
+            "question": "En quelle année fut lancée question pour un champion ?",
+            "answers": {
+                "a": "1988",
+                "b": "1998",
+                "c": "1995",
+                "d": "2005"
+            },
+            "good_answer": "1998"
+        },
+        {
+            "question": "Qui a inventé le tableau périodique des éléments ?",
+            "answers": {
+                "a": "Antoine Laurent Lavoisier",
+                "b": "Primo Levi",
+                "c": "Dmitri Mendeleïev",
+                "d": "Alfred Nobel"
+            },
+            "good_answer": "Dmitri Mendeleïev"
+        },
+        {
+            "question": "Qu'est-ce qu'un lépidoptères",
+            "answers": {
+                "a": "Un papillon",
+                "b": "Une limace",
+                "c": "Un poisson",
+                "d": "Une plante"
+            },
+            "good_answer": "Un papillon"
+        },
+        {
+            "question": "Combien la Creuse compte-t-elle d'habitants a 5000 près ?",
+            "answers": {
+                "a": "115 000",
+                "b": "85000",
+                "c": "130 000",
+                "d": "180 000"
+            },
+            "good_answer": "115 000"
+        },
+        {
+            "question": "Qui est la grande épouse royale d'Akhenaton, l'un des derniers rois de la 18è dyanstie ?",
+            "answers": {
+                "a": "Kiya",
+                "b": "Nefertiti",
+                "c": "Mérytaton",
+                "d": "Sétepenrê"
+            },
+            "good_answer": "Nefertiti"
+        },
+        {
+            "question": "Quel groupe de rock anglais est à l'origine de la musique Here Comes the Sun ?",
+            "answers": {
+                "a": "Stereophonics",
+                "b": "The Rolling Stones",
+                "c": "Muse",
+                "d": "The Beatles"
+            },
+            "good_answer": "The Beatles"
+        },
+        {
+            "question": "Quel ustensile est également appelé feuille de boucher ?",
+            "answers": {
+                "a": "Le Couperet",
+                "b": "Le Couteau",
+                "c": "La hache à lamelle",
+                "d": "Le fouet"
+            },
+            "good_answer": "Le Couperet"
+        },
+        {
+            "question": "Quel polyèdre ressemblant au cube a ses faces en forme de losange ?",
+            "answers": {
+                "a": "Icosaèdre",
+                "b": "Rhomboèdre",
+                "c": "dodécaèdre régulier",
+                "d": "cube"
+            },
+            "good_answer": "Rhomboèdre"
+        },
+        {
+            "question": "A 10 près, combien y a-t-il de château de la Loire, tous château compris",
+            "answers": {
+                "a": "82",
+                "b": "117",
+                "c": "24",
+                "d": "69"
+            },
+            "good_answer": "82"
+        },
+        {
+            "question": "Quelle princesse s'est faites canonisé après avoir décimer un peuple entier ?",
+            "answers": {
+                "a": "Olga de Kiev",
+                "b": "Anne de Kiev",
+                "c": "Świętosława"
+            },
+            "good_answer": "Olga de Kiev"
+        },
+        {
+            "question": "Dans quel district londonien Jack the Ripper a-t-il sévit ?",
+            "answers": {
+                "a": "Chelsea",
+                "b": "WhiteChapel",
+                "c": "Southwark et Bankside",
+                "d": "Smithfield et Spitalfields"
+            },
+            "good_answer": "WhiteChapel"
+        },
+        {
+            "question": "De quel pays est originaire le karambit ?",
+            "answers": {
+                "a": "Japon",
+                "b": "Russie",
+                "c": "France",
+                "d": "Philipines / Indonésie"
+            },
+            "good_answer": "Philipines / Indonésie"
+        },
+        {
+            "question": "Quelle est la 5ème ile la plus grande du monde ?",
+            "answers": {
+                "a": "Madagascar",
+                "b": "Sumatra",
+                "c": "Bornéo",
+                "d": "Groenland"
+            },
+            "good_answer": "Madagascar"
+        },
+        {
+            "question": "Que désignait le mot cheminot dans son origine oral ?",
+            "answers": {
+                "a": "Vagabond",
+                "b": "Policier",
+                "c": "Orphelin",
+                "d": "Bouffon"
+            },
+            "good_answer": "Vagabond"
+        },
+        {
+            "question": "Les femmes exercant l'art dur Trobar étaient appelées Trobairitz ?",
+            "answers": {
+                "a": "Faux",
+                "b": "Vrai"
+            },
+            "good_answer": "Vrai"
+        },
+        {
+            "question": "Quelle divinité du soleil, est présente dans le panthéon grec ?",
+            "answers": {
+                "a": "Freyja",
+                "b": "Helios",
+                "c": "Amaterasu",
+                "d": "Aton"
+            },
+            "good_answer": "Helios"
+        },
+        {
+            "question": "Quelle ile présente dans la baie de San Francisco est connue pour sa prison ?",
+            "answers": {
+                "a": "Alcatraz",
+                "b": "Angel Island",
+                "c": "Alameda",
+                "d": "Yerba Buena Island"
+            },
+            "good_answer": "Alcatraz"
+        },
+        {
+            "question": "Combien de colléctivités territoriales existent en france a 2 pres ?",
+            "answers": {
+                "a": "69",
+                "b": "81",
+                "c": "114",
+                "d": "96"
+            },
+            "good_answer": "96"
+        },
+        {
+            "question": "Quelle régente du royaume de France est à l'origine du massacre de la Saint-Barthélemy ?",
+            "answers": {
+                "a": "Anne d’Autriche",
+                "b": "Blanche de Castille",
+                "c": "Catherine de Médicis",
+                "d": "Isabeau de Bavière"
+            },
+            "good_answer": "Catherine de Médicis"
+        },
+        {
+            "question": "A quelle factorielle correspond approximativement un gogol ?",
+            "answers": {
+                "a": "factorielle 25",
+                "b": "factorielle 50",
+                "c": "factorielle 70",
+                "d": "factorielle 90"
+            },
+            "good_answer": "factorielle 70"
+        }
+    ]
+}
