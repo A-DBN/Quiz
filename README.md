@@ -4,7 +4,7 @@ A friendly command line interface for the GenepiQuiz
 
 ## Start Quiz
 
-```npx genepiquiz ```
+```npx genepquiz ```
 
 ### Game inspiration
 
