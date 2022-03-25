@@ -1,7 +1,11 @@
-# How to download
+# GenepiQuiz CLI
 
-npm i genepiquiz
+A friendly command line interface for the GenepiQuiz
 
-# How to start
+## Start Quiz
 
-npz genepiquiz
+```npx genepiquiz ```
+
+### Game inspiration
+
+[Fireship tutorial for CLI project](https://www.youtube.com/watch?v=_oHByo8tiEY&feature=youtu.be&ab_channel=Fireship)
