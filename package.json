@@ -1,14 +1,17 @@
 {
-  "name": "genepiquiz",
+  "name": "genepquiz",
   "version": "1.0.0",
   "description": "A Simple Quiz Game",
+  "keywords": ["quiz", "game", "javascript", "cli"],
   "main": "index.js",
   "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/A-DBN/Quiz"
   },
-  "bin": "./index.js",
+  "bin": {
+    "genepquiz": "./index.js"
+  },
   "scripts": {
     "start": "node ."
   },
