@@ -252,7 +252,7 @@
             "answers": {
                 "a": "Ete",
                 "b": "Automne",
-                "c": "Hivers",
+                "c": "Hiver",
                 "d": "Printemps"
             },
             "good_answer": "Hiver"
@@ -291,7 +291,7 @@
                 "a": "Skyrock",
                 "b": "RadioFrance",
                 "c": "RFM",
-                "d": "Bfm Business"
+                "d": "BFM Business"
             },
             "good_answer": "BFM Business"
         },
@@ -535,7 +535,7 @@
             "good_answer": "Vagabond"
         },
         {
-            "question": "Les femmes exercant l'art dur Trobar étaient appelées Trobairitz ?",
+            "question": "Les femmes exercant l'art du Trobar étaient appelées Trobairitz ?",
             "answers": {
                 "a": "Faux",
                 "b": "Vrai"
@@ -591,6 +591,321 @@
                 "d": "factorielle 90"
             },
             "good_answer": "factorielle 70"
+        },
+        {
+            "question": "Combien de World Record existent dans la catégorie \"Break Dirt\" sur le jeu Minecraft sur speedrun.com ?",
+            "answers": {
+                "a": "1",
+                "b": "112",
+                "c": "489",
+                "d": "787"
+            },
+            "good_answer": "787"
+        },
+        {
+            "question": "Quel animal à le plus de dents ?",
+            "answers": {
+                "a": "Le Chien",
+                "b": "L'escargot",
+                "c": "Le Chat",
+                "d": "La souris"
+            },
+            "good_answer": "L'escargot"
+        },
+        {
+            "question": "Combien de temps à durer le plus long embouteillages ? ",
+            "answers": {
+                "a": "1 Jour",
+                "b": "4 Jours",
+                "c": "8 Jours",
+                "d": "12 Jours"
+            },
+            "good_answer": "12 Jours"
+        },
+        {
+            "question": "Quelle variante du jeu d'échec est souvent joué dans foires médievales ?",
+            "answers": {
+                "a": "Les Échecs d'Alice",
+                "b": "Les Échecs humain",
+                "c": "Les Échecs forteresse",
+                "d": "Les Échecs à trois dimensions"
+            },
+            "good_answer": "Les Échecs humain"
+        },
+        {
+            "question": "En quelle année est apparu pour la première fois le drapeau canadien ?",
+            "answers": {
+                "a": "1956",
+                "b": "1932",
+                "c": "1965",
+                "d": "1987"
+            },
+            "good_answer": "1965"
+        },
+        {
+            "question": "Quel est le nom donné à une enclave urbaine ou rédisent les personnes asiatiques ?",
+            "answers": {
+                "a": "Chinatown",
+                "b": "New China",
+                "c": "China street"
+            },
+            "good_answer": "Chinatown"
+        },
+        {
+            "question": "Quelle équipe a remportée la Coupe du monde de football de 1999 ?",
+            "answers": {
+                "a": "France",
+                "b": "Allemagne",
+                "c": "Italie",
+                "d": "Personne"
+            },
+            "good_answer": "Personne"
+        },
+        {
+            "question": "De quel comté, la ville de London est-elle le siège ?",
+            "answers": {
+                "a": "Baltimore",
+                "b": "Madison",
+                "c": "Frederick",
+                "d": "Washington"
+            },
+            "good_answer": "Madison"
+        },
+        {
+            "question": "Quelle est la franchise la plus lucrative au monde ?",
+            "answers": {
+                "a": "Hello Kitty",
+                "b": "Winnie L'ourson",
+                "c": "Pokemon",
+                "d": "Mickey Mouse"
+            },
+            "good_answer": "Pokemon"
+        },
+        {
+            "question": "Qui est le premier président Américain ?",
+            "answers": {
+                "a": "James Madison",
+                "b": "John Adams",
+                "c": "Thomas Jefferson",
+                "d": "George Washington"
+            },
+            "good_answer": "George Washington"
+        },
+        {
+            "question": "Quel element chimique a pour symbole Hg ?",
+            "answers": {
+                "a": "Protactinium",
+                "b": "Holmium",
+                "c": "Mercure",
+                "d": "Yttrium"
+            },
+            "good_answer": "Mercure"
+        },
+        {
+            "question": "Combien de chateaux se trouvent dans la creuse ?",
+            "answers": {
+                "a": "175",
+                "b": "138",
+                "c": "142",
+                "d": "113"
+            },
+            "good_answer": "138"
+        },
+        {
+            "question": "Quelle mission a emmenée le premier homme sur la lune ?",
+            "answers": {
+                "a": "Apollo 11",
+                "b": "Soyouz 25",
+                "c": "Soyouz T-4",
+                "d": "Columbia"
+            },
+            "good_answer": "Apollo 11"
+        },
+        {
+            "question": "Quel est le 3è homme le plus riche du monde ?",
+            "answers": {
+                "a": "Jeff Bezos",
+                "b": "Bill Gates",
+                "c": "Elon Musk",
+                "d": "Bernard Arnault"
+            },
+            "good_answer": "Bernard Arnault"
+        },
+        {
+            "question": "En quelle année est sortit le langage informatique C# ?",
+            "answers": {
+                "a": "2001",
+                "b": "2003",
+                "c": "1999",
+                "d": "1997"
+            },
+            "good_answer": "2001"
+        },
+        {
+            "question": "Quelle musique a pour parole en francais \"Je ne t'abandonnerai jamais,  Je ne te laisserai jamais tomber\"",
+            "answers": {
+                "a": "Never gonna give you up",
+                "b": "Around The World",
+                "c": "Sunshine",
+                "d": "Let it be"
+            },
+            "good_answer": "Never gonna give you up"
+        },
+        {
+            "question": "Quelle est la valeur du nombre d'or ?",
+            "answers": {
+                "a": "1.61",
+                "b": "1.17",
+                "c": "3.14",
+                "d": "2.31"
+            },
+            "good_answer": "1.61"
+        },
+        {
+            "question": "Dans quelle ville est situé le siège social de OnlyFans ?",
+            "answers": {
+                "a": "Paris",
+                "b": "Londres",
+                "c": "Munich",
+                "d": "Bruxelles"
+            },
+            "good_answer": "Londres"
+        },
+        {
+            "question": "Qui est le premier président de la 5e république francaise ?",
+            "answers": {
+                "a": "Charles De Gaulle",
+                "b": "François Mitterrand",
+                "c": "Nicolas Sarkozy",
+                "d": "Jacques Chirac"
+            },
+            "good_answer": "Charles De Gaulle"
+        },
+        {
+            "question": "Comment s'appelle les versions géantes de wall-e présente dans le vaisseau ?",
+            "answers": {
+                "a": "Wall-A",
+                "b": "Wall-B",
+                "c": "Climber",
+                "d": "Cleaner"
+            },
+            "good_answer": "Wall-A"
+        },
+        {
+            "question": "Quelle personnage célèbre avec des cheveux bleue est une vocaloïd ?",
+            "answers": {
+                "a": "Umi Ryuuzaki",
+                "b": "Hatsune Miku",
+                "c": "Ami Kawashima",
+                "d": "Aki Adagaki"
+            },
+            "good_answer": "Hatsune Miku"
+        },
+        {
+            "question": "Quel est le nom de la suite qui a pour formule Fn = Fn-1 + Fn-2 pour n > 1",
+            "answers": {
+                "a": "Suite de Conway",
+                "b": "Suite de Syracuse ou de Collatz",
+                "c": "Suite de Fibonacci"
+            },
+            "good_answer": "Suite de Fibonacci"
+        },
+        {
+            "question": "Pour une tartiflette en règle quel fromage faut-il utiliser ?",
+            "answers": {
+                "a": "Bichonnet",
+                "b": "Angors",
+                "c": "Briquette",
+                "d": "Reblochon"
+            },
+            "good_answer": "Reblochon"
+        },
+        {
+            "question": "Quelle est l'origine du doigt d'honneur ?",
+            "answers": {
+                "a": "Signe de provocation des anglais pendant la guerre",
+                "b": "Signe de supériorité par les nobles francais",
+                "c": "Signe de salutation par les soldats espagnols"
+            },
+            "good_answer": "Signe de provocation des anglais pendant la guerre"
+        },
+        {
+            "question": "Le pire ennemi de Claptrap dans Borderlands est :",
+            "answers": {
+                "a": "Des escaliers",
+                "b": "Des dragons",
+                "c": "Des humains",
+                "d": "Des pizzas"
+            },
+            "good_answer": "Des escaliers"
+        },
+        {
+            "question": "Qui est le premier présentateur de Question pour un champion ?",
+            "answers": {
+                "a": "Julien Lepers",
+                "b": "Samuel Etienne",
+                "c": "Nagui",
+                "d": "Jean-Luc Reichmann"
+            },
+            "good_answer": "Julien Lepers"
+        },
+        {
+            "question": "Qui a prononcé \"Avec ma machine, je vous fais sauter la tête en un clin d’œil, et vous ne souffrez point. La mécanique tombe comme la foudre, la tête vole, le sang jaillit, l'homme n'est plus\" ?",
+            "answers": {
+                "a": "Jeanne D'arc",
+                "b": "Docteur Guillotin",
+                "c": "Louis XIV",
+                "d": "Charlemagne"
+            },
+            "good_answer": "Docteur Guillotin"
+        },
+        {
+            "question": "Qu'est ce qu'un Femboy ?",
+            "answers": {
+                "a": "Un garcon avec des manières féminines",
+                "b": "Une fille avec des manieres de garcon"
+            },
+            "good_answer": "Un garcon avec des manières féminines"
+        },
+        {
+            "question": "Dans age of empire III que fait aparaitre le code \"tuck tuck tuck\" ?",
+            "answers": {
+                "a": "Un Monster Truck",
+                "b": "Une Bombe Nucléaire",
+                "c": "Une cloche",
+                "d": "Un vendeur de tapis"
+            },
+            "good_answer": "Un Monster Truck"
+        },
+        {
+            "question": "Quel acteur connu, demande au samouraï de se putain de réveiller car ils ont une ville à bruler ?",
+            "answers": {
+                "a": "Keanu Reeves",
+                "b": "Sacha du Bourg Palette",
+                "c": "Tom Hanks",
+                "d": "Brad Pitt"
+            },
+            "good_answer": "Keanu Reeves"
+        },
+        {
+            "question": "Quel animal porte le nom de Etalon Du Cul ?",
+            "answers": {
+                "a": "Cheval",
+                "b": "Chèvre",
+                "c": "Lion",
+                "d": "Pangolin"
+            },
+            "good_answer": "Cheval"
+        },
+        {
+            "question": "En quelle année est créé youtube ?",
+            "answers": {
+                "a": "2002",
+                "b": "2005",
+                "c": "2004",
+                "d": "2003"
+            },
+            "good_answer": "2005"
         }
     ]
 }
