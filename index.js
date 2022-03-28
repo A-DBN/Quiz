@@ -116,7 +116,6 @@ async function winner() {
       )
     );
   });
-  process.exit(0)
 }
 
 async function question() {
